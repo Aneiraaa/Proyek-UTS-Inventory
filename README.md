@@ -1,3 +1,8 @@
+Nama Anggota :
+1. Aneira Vicentiya Kuncoro (A11.2022.14226)
+2. Dinar Titian Jannah (A11.2022.14232)
+3. Laila Maulin Ni'mah (A11.2022.14424)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
